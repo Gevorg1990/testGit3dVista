@@ -54,6 +54,7 @@ HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2_mobile.html = <div style="text-ali
 ## Tour
 
 ### Description
+tour.description = test
 
 ### Title
 tour.name = Untitled 2
