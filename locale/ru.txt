@@ -42,7 +42,6 @@ Button_EF4A2C0F_F2FB_8290_41EC_829B26812C07.pressedLabel = gallery item 2
 Image_ED2F6B35_F2DB_86F0_41D6_447DC12A8E82.url = skin/Image_ED2F6B35_F2DB_86F0_41D6_447DC12A8E82_ru.png
 Image_EF491764_F2C5_8E90_41E8_F6545D007750.url = skin/Image_EF491764_F2C5_8E90_41E8_F6545D007750_ru.jpg
 Image_EF496C0E_F2FB_8290_41E2_D52AAB546203.url = skin/Image_EF496C0E_F2FB_8290_41E2_D52AAB546203_ru.jpg
-Image_F12F356C_EDFE_10CE_41C3_E009A38D411E.url = skin/Image_F12F356C_EDFE_10CE_41C3_E009A38D411E_ru.png
 
 ### Label
 Label_F863A8F2_E76D_09FD_41E7_C4FD08E055B8.text = Gallery
@@ -54,7 +53,7 @@ HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2_mobile.html = <div style="text-ali
 ## Tour
 
 ### Description
-tour.description = test
+tour.description = my first test skin element
 
 ### Title
 tour.name = my test tour
