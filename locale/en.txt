@@ -1,0 +1,55 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_B7D888A9_A9E8_003C_41B5_9506F66A0350.source = http://www.facebook.com/loremipsum
+
+## Media
+
+### Audio
+audiores_9B284A09_B963_935F_41D1_4036CC09DA95.mp3Url = media/audio_9A943728_B961_915D_41E0_DE10261E50F7_en.mp3
+audiores_9B876FA7_B961_9153_41CC_85669C6727E2.mp3Url = media/audio_9B257998_B961_F17D_41E6_AC3997DE1839_en.mp3
+
+### Title
+panorama_B5D40A25_A9E8_0034_41D2_7012D803F752.label = hello
+panorama_B5EA68A1_A9E8_002C_41D6_376713EFA716.label = by
+album_2B4A0C75_0C4E_9FCF_4180_FFF3DC900409_1.label = 8377217-94b3017777434cde9ae59a46042a4419
+album_2B4A0C75_0C4E_9FCF_4180_FFF3DC900409_0.label = 8377217-94b3017777434cde9ae59a46042a4419-removebg-preview
+panorama_35326FE7_1721_33B7_41A3_9A41F35371D3.label = IMG_20231105_113551_00_002
+album_2B4A0C75_0C4E_9FCF_4180_FFF3DC900409.label = Photo Album 8377217-94b3017777434cde9ae59a46042a4419-removebg-preview
+panorama_B6CCD64B_A9E8_007C_41DB_F14150D137B9.label = адресована
+
+## Skin
+
+### Button
+Button_0C02DD86_1720_F469_419A_34615C8BBBC8.label = TEXT eng
+Button_009946B2_1727_F5A9_41B5_E181FE15BB47.label = TEXT ru
+Button_EFAF40A0_F2FA_8390_41D3_5589A63A496D.pressedLabel = gallery item 1
+Button_EFAF40A0_F2FA_8390_41D3_5589A63A496D.label = gallery item 1
+Button_EF4A2C0F_F2FB_8290_41EC_829B26812C07.label = gallery item 2
+Button_EF4A2C0F_F2FB_8290_41EC_829B26812C07.pressedLabel = gallery item 2
+
+### Image
+Image_ED2F6B35_F2DB_86F0_41D6_447DC12A8E82.url = skin/Image_ED2F6B35_F2DB_86F0_41D6_447DC12A8E82_en.png
+Image_EF491764_F2C5_8E90_41E8_F6545D007750.url = skin/Image_EF491764_F2C5_8E90_41E8_F6545D007750_en.jpg
+Image_EF496C0E_F2FB_8290_41E2_D52AAB546203.url = skin/Image_EF496C0E_F2FB_8290_41E2_D52AAB546203_en.jpg
+
+### Label
+Label_128765EF_0CD2_88DB_4183_BDD25A794B6C.text = english 360 tours
+Label_F863A8F2_E76D_09FD_41E7_C4FD08E055B8.text = Gallery english lang
+
+### Multiline Text
+HTMLText_2BB3D396_0C32_894D_4190_4834C75556BB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.33vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.33vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.65vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.65vh;font-family:'Bebas Neue Bold';">Panorama list: </SPAN></SPAN></DIV></div>
+HTMLText_2BC5D0F6_0C36_88CD_41A6_0A7699A2FEC0.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.91vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#987b55;font-size:3.91vh;font-family:'Otama.ep';"><B>PANORAMA LIST:</B></SPAN></SPAN></DIV></div>
+HTMLText_2516573E_0DF2_89BD_41A8_4B75C13FA0DD.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>{{title}}</B></SPAN></SPAN></DIV></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 10px rgba(0,0,0,0.6);text-align:left;font-size:6.559999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:6.56vmin;font-family:'Exo';"><B><I>{{title}}</I></B></SPAN></SPAN></DIV></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 6px rgba(0,0,0,0.63);text-align:left;font-size:25.99px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:25.99px;font-family:'Exo';"><B><I>{{title}}</I></B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+tour.description = my first test skin element
+
+### Title
+tour.name = my test tour
